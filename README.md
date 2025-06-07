@@ -1,11 +1,15 @@
 # Project Euler CLI
 
-A no-frills command-line helper to:
+
+
+A command-line helper for Project Euler problems to:
 
 * fetch any Project Euler problem and scaffold boiler-plate files
 * pull the official RSS feed
 * track which problems you have finished
 * show quick progress stats
+
+**Supports both Julia and Python!**
 
 ```
 # install from PyPI
