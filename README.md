@@ -1,6 +1,7 @@
 # Project Euler CLI
 
 
+See PyPI page: https://pypi.org/project/projecteuler-cli/0.3.0/
 
 A command-line helper for Project Euler problems to:
 
