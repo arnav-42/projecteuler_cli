@@ -1,5 +1,6 @@
 # Project Euler CLI
 
+## **Jan 2026 Update:** This tool is now deprecated in favor of my newer, faster, [euler-cli tool](https://github.com/arnav-42/euler-cli).
 
 See PyPI page: https://pypi.org/project/projecteuler-cli/0.3.0/
 
